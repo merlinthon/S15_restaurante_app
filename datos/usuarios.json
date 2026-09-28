@@ -1,0 +1,17 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Ana Pérez",
+        "contraseña": "1234"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Luis Mora",
+        "contraseña": "abcd"
+    },
+    {
+        "identificacion": "U003",
+        "nombre": "Carla Zambrano",
+        "contraseña": "0000"
+    }
+]

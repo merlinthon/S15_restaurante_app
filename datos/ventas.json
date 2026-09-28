@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "fecha": "2025-09-28",
+    "mesa": 1,
+    "cliente": "Ana",
+    "items": [
+      { "producto": "Pizza Margarita", "cantidad": 2, "precio": 180 },
+      { "producto": "Refresco", "cantidad": 1, "precio": 40 }
+    ],
+    "total": 400,
+    "estado": "pagado"
+  },
+  {
+    "id": 2,
+    "fecha": "2025-09-28",
+    "mesa": 2,
+    "cliente": "Luis",
+    "items": [
+      { "producto": "Pasta Alfredo", "cantidad": 1, "precio": 220 },
+      { "producto": "Agua mineral", "cantidad": 2, "precio": 25 }
+    ],
+    "total": 270,
+    "estado": "pendiente"
+  },
+  {
+    "id": 3,
+    "fecha": "2025-09-29",
+    "mesa": 3,
+    "cliente": "Sofía",
+    "items": [
+      { "producto": "Ensalada Caesar", "cantidad": 1, "precio": 150 },
+      { "producto": "Té helado", "cantidad": 2, "precio": 35 },
+      { "producto": "Postre", "cantidad": 1, "precio": 90 }
+    ],
+    "total": 310,
+    "estado": "pagado"
+  }
+]
